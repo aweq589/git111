@@ -5,5 +5,6 @@ public class atguigu {
         System.out.println(
                 "ssssss"
         );
+        System.out.println("222222222222");
     }
 }
